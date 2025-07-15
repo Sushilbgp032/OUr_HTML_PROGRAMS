@@ -1,0 +1,15 @@
+For new Repositery
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sranveer1021/HTML_Programs.git
+git push -u origin main
+
+
+For Edited in existing code
+
+git add .
+git commit -m ""
+git push
